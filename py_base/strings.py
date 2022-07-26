@@ -7,7 +7,7 @@
 # print((str2 + " ") * 4)d
 
 """ Функции и методы строк """
-my_str = "Hello World"
+# my_str = "Hello World"
 # print(len(my_str))
 # print(my_str.split('o')) # Делит по указательному делителю
 # my_str = my_str.replace("l", "b")
@@ -83,3 +83,11 @@ string_test = "My test string 123"
 # dir(obj) # Показывает все методы которые можно использовать
 # str1 = "hello"
 # print(dir(str1))
+
+num = int(input())
+if chr(num).isalpha():
+    print("Это буква " + str(chr(num)))
+else:
+    print("Это не буква, а символ " + str(chr(num)))
+
+

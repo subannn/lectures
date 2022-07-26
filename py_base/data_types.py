@@ -89,3 +89,7 @@ NoneType - тип данных для обозначения пустого зн
 # b = 10
 # print(id(a))
 # print(id(b)) 
+print(
+    "asdadsads"
+    "asdgqwrkg"
+)

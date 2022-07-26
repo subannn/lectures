@@ -27,11 +27,11 @@ num1 % num2 # - выделение остатка
 # round(3.5) # 3
 # round(2.2451, 2) # 2.25 - округление до 'y'
 
-num1 = float(input("First: "))
-num2 = float(input("Second: "))
-print(num1 + num2, 'sum')
-print(num1 - num2)
-print(num1 * num2)
-print(num1 / num2)
-print(num1 % num2)
+# num1 = float(input("First: "))
+# num2 = float(input("Second: "))
+# print(num1 + num2, 'sum')
+# print(num1 - num2)
+# print(num1 * num2)
+# print(num1 / num2)
+# print(num1 % num2)
 
